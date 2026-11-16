@@ -1,0 +1,1 @@
+const DEFAULT_GAS_WEBAPP_URL = "https://script.google.com/macros/s/AKfycbyv2gtq5CeiuZ0m_XYEPJNpIZyZBqcNFdpcwlQOJRn5zeooK4ZhDkIWNg5Dqx0h916F9g/exec";
